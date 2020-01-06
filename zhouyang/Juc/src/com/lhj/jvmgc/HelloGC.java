@@ -9,6 +9,7 @@ public class HelloGC {
         System.out.println("===================hello GC");
 
         Thread.sleep(Integer.MAX_VALUE);
+        //jps -l
         //jinfo -flag UseSerialGC 10004
     }
 }
