@@ -8,7 +8,7 @@ public class HelloGC {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("===================hello GC");
 
-        Thread.sleep(Integer.MAX_VALUE);
+        //Thread.sleep(Integer.MAX_VALUE);
         //jps -l
         //jinfo -flag UseSerialGC 10004
         // java -XX:+PrintFlagsInitial 默认打印Jvm所有初始化数据
