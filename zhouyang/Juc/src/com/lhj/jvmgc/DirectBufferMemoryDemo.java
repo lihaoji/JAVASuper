@@ -26,17 +26,6 @@ public class DirectBufferMemoryDemo {
          at com.lhj.jvmgc.DirectBufferMemoryDemo.main(DirectBufferMemoryDemo.java:18)
          *
          *
-         *
-         *
-         *
-         *
-         *
-         *
-         *
-         *
-         *
-         *
-         *
          */
 
 
